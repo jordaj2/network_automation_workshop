@@ -6,7 +6,7 @@ network automation workshop -- who knows what this even is...!?
 #### Key Features
 - __Fastness__: this is very fast
 - __Coolness__: this is at least kinda cool 
-- __????????__: i dunno?
+- __Products__: i dunno?
 - __Profit!!__: yes, let's do that!
 
 ## Installation
